@@ -1,0 +1,14 @@
+F:\interviewAssingement\obj\Debug\netcoreapp2.2\interviewAssingement.csprojAssemblyReference.cache
+F:\interviewAssingement\obj\Debug\netcoreapp2.2\interviewAssingement.csproj.CoreCompileInputs.cache
+F:\interviewAssingement\obj\Debug\netcoreapp2.2\interviewAssingement.RazorAssemblyInfo.cache
+F:\interviewAssingement\obj\Debug\netcoreapp2.2\interviewAssingement.RazorAssemblyInfo.cs
+F:\interviewAssingement\obj\Debug\netcoreapp2.2\interviewAssingement.AssemblyInfoInputs.cache
+F:\interviewAssingement\obj\Debug\netcoreapp2.2\interviewAssingement.AssemblyInfo.cs
+F:\interviewAssingement\bin\Debug\netcoreapp2.2\interviewAssingement.deps.json
+F:\interviewAssingement\bin\Debug\netcoreapp2.2\interviewAssingement.runtimeconfig.json
+F:\interviewAssingement\bin\Debug\netcoreapp2.2\interviewAssingement.runtimeconfig.dev.json
+F:\interviewAssingement\bin\Debug\netcoreapp2.2\interviewAssingement.dll
+F:\interviewAssingement\bin\Debug\netcoreapp2.2\interviewAssingement.pdb
+F:\interviewAssingement\obj\Debug\netcoreapp2.2\interviewAssingement.RazorTargetAssemblyInfo.cache
+F:\interviewAssingement\obj\Debug\netcoreapp2.2\interviewAssingement.dll
+F:\interviewAssingement\obj\Debug\netcoreapp2.2\interviewAssingement.pdb
